@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class DadosBancariosDto {
     private Long id;
     private String conta;
-    private String agência;
+    private String agencia;
     private String banco;
     private String tipoConta;
 }
